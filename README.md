@@ -30,3 +30,5 @@ npm run build
 npm run preview
 ```
 
+线上地址: `http://116.62.160.72:9062/`
+
